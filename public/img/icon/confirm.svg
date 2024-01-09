@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="424" height="88" viewBox="0 0 424 88">
+  <defs>
+    <filter id="사각형_82" x="0" y="0" width="424" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_83" data-name="그룹 83" transform="translate(-2204 -6440)">
+    <g transform="matrix(1, 0, 0, 1, 2204, 6440)" filter="url(#사각형_82)">
+      <rect id="사각형_82-2" data-name="사각형 82" width="406" height="70" rx="5" transform="translate(9 6)" fill="#305431"/>
+    </g>
+    <text id="확인" transform="translate(2420 6465)" fill="#fff" font-size="35" font-family="Pretendard-Medium, Pretendard" font-weight="500" letter-spacing="-0.025em"><tspan x="-29.802" y="33">확인</tspan></text>
+  </g>
+</svg>

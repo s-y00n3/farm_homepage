@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354" height="76" viewBox="0 0 354 76">
+  <defs>
+    <filter id="사각형_76" x="0" y="0" width="354" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_84" data-name="그룹 84" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#사각형_76)">
+      <rect id="사각형_76-2" data-name="사각형 76" width="336" height="58" rx="5" transform="translate(9 6)" fill="#305431"/>
+    </g>
+    <text id="창업_문의_예약" data-name="창업 문의 예약" transform="translate(62 12)" fill="#fff" font-size="28" font-family="Pretendard-Bold, Pretendard" font-weight="700" letter-spacing="-0.025em"><tspan x="28.934" y="26">창업 문의 예약</tspan></text>
+  </g>
+</svg>
